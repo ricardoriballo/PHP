@@ -1,0 +1,17 @@
+{
+    "name": "ricardoriballo/composer",
+    "autoload": {
+        "psr-4": {
+            "Ricardoriballo\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ricardoriballo",
+            "email": "99474925+ricardoriballo@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "ulabox/nif-validator": "^1.2"
+    }
+}
